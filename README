@@ -3,4 +3,4 @@ jama
 A simple web based cost tracking software.
 stack: SQLite, Python, Flask
 
-
+.
