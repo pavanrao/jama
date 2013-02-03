@@ -3,4 +3,6 @@ jama
 A simple web based cost tracking software.
 stack: SQLite, Python, Flask
 
-.
+20130202: initial version.
+	Simple python script to add records into sqlite db.
+	Next version is to include a flask web version to view added records.
